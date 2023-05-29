@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680427067 source:d:\uni\year-2\semester-2\algo\ikea\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<algorithm>
+

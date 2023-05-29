@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681903490 source:d:\uni\year-2\semester-2\algo\longest path\main.cpp
+	<iostream>
+	<map>
+	<vector>
+

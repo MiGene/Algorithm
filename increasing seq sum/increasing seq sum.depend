@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682155921 source:d:\uni\year-2\semester-2\algo\increasing seq sum\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<numeric>
+

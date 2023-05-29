@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682686167 source:d:\uni\year-2\semester-2\algo\01knapsack\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+

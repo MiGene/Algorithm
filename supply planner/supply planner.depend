@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682674034 source:d:\uni\year-2\semester-2\algo\supply planner\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<queue>
+

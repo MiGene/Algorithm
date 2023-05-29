@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682152282 source:d:\uni\year-2\semester-2\algo\n-queen\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+
